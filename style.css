@@ -15,6 +15,9 @@ h1 {
   color: #949596;
   text-transform: uppercase;
 }
+h2{
+  color: azure;
+}
 
 hr {
   margin: 20px auto;
